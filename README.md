@@ -42,7 +42,6 @@ This repository hosts the source code for my tutoring website.
 The site includes:
 - Information about my tutoring services
 - Contact details for booking sessions
-- Resources and updates for students
 
 ---
 
