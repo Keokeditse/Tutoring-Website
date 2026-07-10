@@ -53,6 +53,5 @@ The site includes:
 ---
 
 ## 📌 Future Plans
-- Add interactive resources (notes, problem sets, solutions)
-- Implement a booking system for tutoring sessions
+- Add a feedback page (reviews from students)
 - Share blog posts on study tips and academic growth
