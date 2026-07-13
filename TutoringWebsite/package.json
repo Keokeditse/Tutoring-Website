@@ -1,0 +1,12 @@
+{
+  "name": "ruconsulting-reviews",
+  "version": "1.0.0",
+  "description": "Standalone reviews page + API for the tutoring poster site. No external database - reviews are stored in a local JSON file.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
