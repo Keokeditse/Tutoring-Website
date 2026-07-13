@@ -1,7 +1,8 @@
 # 📚 Tutoring Website
 
 A personal website showcasing my tutoring services in **Mathematics, Applied Mathematics, and Computer Science** at the tertiary level.
-
+- **Poster / booking page** — `public/Index.html` (your original booking form, unchanged)
+- **Reviews page** — `public/reviews.html` (review form on top, reviews list below, no names — just rating, text, and timestamp)
 ---
 
 ## 🎯 About Me
@@ -42,15 +43,11 @@ This repository hosts the source code for my tutoring website.
 The site includes:
 - Information about my tutoring services
 - Contact details for booking sessions
+- Give reviews of the experience and impact of the tutoring services
 
 ---
 
 ## 🛠 Tech Stack
-- **HTML5 / CSS3 / JavaScript** for frontend
+- **HTML5 / CSS3 / JavaScript (Node.js)** for frontend
 - Optional integration with **GitHub Pages** for hosting
 
----
-
-## 📌 Future Plans
-- Add a feedback page (reviews from students)
-- Share blog posts on study tips and academic growth
