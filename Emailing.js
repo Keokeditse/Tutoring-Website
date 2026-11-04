@@ -50,7 +50,7 @@
       })
       .catch(function(error) {
         console.error('EmailJS error:', error);
-        status.textContent = '❌ Failed to send. Please email me directly at g23n3545@campus.ru.ac.za';
+        status.textContent = '❌ Failed to send. Please email me directly at keokeditsendala@gmail.com';
         status.className = 'form-status error';
         submitBtn.disabled = false;
         submitBtn.textContent = '✉️ Send Booking Enquiry';
